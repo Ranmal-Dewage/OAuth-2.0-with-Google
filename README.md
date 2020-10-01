@@ -10,7 +10,7 @@ Demonstrate the usage of OAuth 2.0 framework to access the resources made availa
 5. After that run **'npm run server'** command.
 6. Open another command prompt and go inside 'Client' folder.
 7. Run **'npm install'** command.
-8. After that run **'npm run dev'** command and go to the link displayed in the command prompt
+8. After that run **'npm run dev'** command and go to the link displayed in the command prompt after running the command.
 9. Click the 'Google' button to initiate OAuth flow in the application.
 
 **Enter the Time field in reservation form as 'time' 'space' 'am' or 'pm' (10.30 am / 10.30 pm)**
