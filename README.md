@@ -4,7 +4,7 @@ Demonstrate the usage of OAuth 2.0 framework to access the resources made availa
 # How to deploy the project
 
 1. Install Node JS and MongoDB, if you do not have them in your machine.
-2. Clone this repository to your machine.(git clone &lt;repository url&lt;)
+2. Clone this repository to your machine.(git clone &lt;repository url&gt;)
 3. Copy the **'credentials.json'** file inside the zip file uploaded to Courseweb.
 4. Paste it inside **'OAuth-2.0-with-Google/Services/config'** folder.
 5. Open command prompt and go inside 'Services' folder of cloned repository.
