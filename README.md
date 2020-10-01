@@ -11,4 +11,4 @@ Demonstrate the usage of OAuth 2.0 framework to access the resources made availa
 6. Open another command prompt and go inside 'Client' folder.
 7. Run **'npm install'** command.
 8. After that run **'npm run dev'** command and go to the link displayed in the command prompt
-9.Click the 'Google' button to initiate OAuth flow in the application.
+9. Click the 'Google' button to initiate OAuth flow in the application.
