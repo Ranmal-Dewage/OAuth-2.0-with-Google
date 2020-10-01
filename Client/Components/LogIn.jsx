@@ -46,7 +46,7 @@ class LogIn extends React.Component {
                 <MDBFooter color="blue" className="font-small pt-4 mt-4">
                     <div className="footer-copyright text-center py-3">
                         <MDBContainer fluid>
-                            &copy; {new Date().getFullYear()} Copyright: Ranmal Dewage <a href="https://ranmaldewage.wordpress.com/posts/"> ranmaldewage.wordpress.com </a>
+                            &copy; {new Date().getFullYear()} Copyright: Ranmal Dewage &amp; Aravinda Kulasooriya <a href="https://ranmaldewage.wordpress.com/posts/"> ( ranmaldewage.wordpress.com ) </a>
                         </MDBContainer>
                     </div>
                 </MDBFooter>
